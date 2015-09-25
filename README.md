@@ -1,2 +1,2 @@
 # syne
-minimalistic multi-view terminal-based text editor
+minimalistic terminal-based text editor written in C++
