@@ -4,8 +4,6 @@ compiler:
   - gcc
   - clang
 
-script: rake ci
-
 branches:
   only:
     - master
