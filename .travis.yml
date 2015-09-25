@@ -1,0 +1,16 @@
+language: cpp
+
+compiler:
+  - gcc
+  - clang
+
+script: rake ci
+
+branches:
+  only:
+    - master
+
+os:
+  - linux
+  - osx
+  - windows
