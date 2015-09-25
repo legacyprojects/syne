@@ -16,7 +16,7 @@ int main() {
 	
 	while(app_running == true) {
 		
-		line_entry = 0;
+		line_number = 0;
 		cout << "file name: ";
 		getline(cin, file_name);
 		ofstream myfile(file_name.c_str());
